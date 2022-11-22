@@ -1,0 +1,25 @@
+{
+  "name": "electron-js-image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnab333/electron-js-image-resizer.git"
+  },
+  "author": "Arnab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnab333/electron-js-image-resizer/issues"
+  },
+  "homepage": "https://github.com/arnab333/electron-js-image-resizer#readme",
+  "dependencies": {
+    "electron": "^21.3.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
